@@ -1,0 +1,21 @@
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Artigos 2021\Artigo 49 - API SpringBppt_ConsumeCSharp_LibraryDLLCsharp\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Artigos 2021\Artigo 49 - API SpringBppt_ConsumeCSharp_LibraryDLLCsharp\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Artigos 2021\Artigo 49 - API SpringBppt_ConsumeCSharp_LibraryDLLCsharp\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Artigos 2021\Artigo 49 - API SpringBppt_ConsumeCSharp_LibraryDLLCsharp\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Artigos 2021\Artigo 49 - API SpringBppt_ConsumeCSharp_LibraryDLLCsharp\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Artigos 2021\Artigo 49 - API SpringBppt_ConsumeCSharp_LibraryDLLCsharp\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Artigos 2021\Artigo 49 - API SpringBppt_ConsumeCSharp_LibraryDLLCsharp\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Artigos 2021\Artigo 53 - API SpringBppt_ConsumeCSharp - Completo\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Artigos 2021\Artigo 53 - API SpringBppt_ConsumeCSharp - Completo\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Artigos 2021\Artigo 53 - API SpringBppt_ConsumeCSharp - Completo\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Artigos 2021\Artigo 53 - API SpringBppt_ConsumeCSharp - Completo\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Artigos 2021\Artigo 53 - API SpringBppt_ConsumeCSharp - Completo\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Artigos 2021\Artigo 53 - API SpringBppt_ConsumeCSharp - Completo\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Usuario\Documents\Perucello SSD\00 Artigos FP\Artigos 2021\Artigo 53 - API SpringBppt_ConsumeCSharp - Completo\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Usuario\Documents\Perucello SSD\00 EVOLUA - aula\Gith\APIJava_ConsumerJava_ConsumerCSharp\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Usuario\Documents\Perucello SSD\00 EVOLUA - aula\Gith\APIJava_ConsumerJava_ConsumerCSharp\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Usuario\Documents\Perucello SSD\00 EVOLUA - aula\Gith\APIJava_ConsumerJava_ConsumerCSharp\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Usuario\Documents\Perucello SSD\00 EVOLUA - aula\Gith\APIJava_ConsumerJava_ConsumerCSharp\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Perucello SSD\00 EVOLUA - aula\Gith\APIJava_ConsumerJava_ConsumerCSharp\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Perucello SSD\00 EVOLUA - aula\Gith\APIJava_ConsumerJava_ConsumerCSharp\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Usuario\Documents\Perucello SSD\00 EVOLUA - aula\Gith\APIJava_ConsumerJava_ConsumerCSharp\Consume ConsoleAPP Csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
